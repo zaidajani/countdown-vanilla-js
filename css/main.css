@@ -1,0 +1,50 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&display=swap');
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #E1FBFF;
+}
+
+#cd {
+  text-align: center;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 60px;
+  text-decoration: underline;
+}
+
+input[type=number] {
+  width: 30%;
+  padding: 14px 20px;
+  margin: 80px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+  text-align: center;
+}
+
+#enter {
+  color: white;
+  padding: 14px 20px;
+  margin: 8px 0;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  background-color: #45a049;
+}
+
+#enter:hover {
+  color: rgb(247, 255, 175);
+}
+
+#time-left {
+  text-align: center;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 300px;
+  color: grey;
+}
