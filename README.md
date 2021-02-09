@@ -6,4 +6,4 @@ Simple timer made using vanilla javascript, html and css. No external libraries 
 
 Just open index.html with `live-server` or open file in browser.
 
-## Enjoy your powerfull application
+## Enjoy your application
